@@ -1,5 +1,5 @@
 使用蓝牙时候出现以下错误
-** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'State restoration of CBCentralManager is only allowed for applications that have specified the "bluetooth-central" background mode' **
+Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'State restoration of CBCentralManager is only allowed for applications that have specified the "bluetooth-central" background mode'
 
 解决方法
 修改info.plist
